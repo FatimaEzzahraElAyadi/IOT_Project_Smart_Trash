@@ -1,4 +1,4 @@
-# IOT_Project_Smart_Trash: Le Futur de la Gestion des Déchets
+# 🗑️ IOT_Project_Smart_Trash: Le Futur de la Gestion des Déchets
 
 ![Smart Trash](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/smart_trash.PNG)
 
@@ -6,7 +6,7 @@
 
 Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner la gestion des déchets en utilisant la technologie pour simplifier la collecte, le tri et la notification des déchets. Cette poubelle intelligente offre des fonctionnalités avancées pour améliorer l'efficacité de la gestion des déchets tout en contribuant à la protection de l'environnement.
 
-## Fonctionnalités
+## 📋 Fonctionnalités
 
 - **Ouverture Automatique du Couvercle :** La poubelle s'ouvre automatiquement lorsque quelqu'un s'approche, grâce à un capteur de mouvement.
 
@@ -14,7 +14,7 @@ Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner l
 
 - **Système de Notification :** Lorsque la poubelle est pleine, un système de notification envoie une alerte pour la collecte immédiate.
 
-## Matériels Utilisés
+## 🛠️ Matériels Utilisés
 
 - Microcontrôleur ESP32
 - Breadboard
@@ -22,18 +22,18 @@ Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner l
 - Capteurs à Ultrasons
 - LED Indicateur
 
-## Logiciels
+## 💻 Logiciels
 
 - IDE Arduino
 - Plateforme Blynk (pour l'interface utilisateur mobile)
 
-## Réalisation
+## 🚀 Réalisation
 
 ![Simulation](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/Simulation.PNG)
 
 Montage Réel : [Lien](https://drive.google.com/file/d/1G3Fbi55WKITg7rH2b8gXDcFIxUMKzwmS/view?usp=sharing)
 
-## Utilisation
+## ⚡ Utilisation
 
 1. Clonez ce dépôt sur votre ordinateur.
 2. Configurez les matériels et téléchargez le code source dans le microcontrôleur ESP32.
