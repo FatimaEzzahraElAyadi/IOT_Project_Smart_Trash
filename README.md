@@ -1,9 +1,7 @@
 # IOT_Project_Smart_Trash: Le Futur de la Gestion des Déchets
 
 ![Smart Trash](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/smart_trash.PNG)
-![Smart Filled](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/full.jpeg)
-![Notification on Blynk](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/notélé.jpeg)
-![Notification on Gmail](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/notgml.jpeg)
+![Smart Filled](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/full.jpeg) | ![Notification on Blynk](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/notélé.jpeg) | ![Notification on Gmail](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/notgml.jpeg)
 
 Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner la gestion des déchets en utilisant la technologie pour simplifier la collecte, le tri et la notification des déchets. Cette poubelle intelligente offre des fonctionnalités avancées pour améliorer l'efficacité de la gestion des déchets tout en contribuant à la protection de l'environnement.
 
