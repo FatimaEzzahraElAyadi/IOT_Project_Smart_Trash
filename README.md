@@ -31,7 +31,7 @@ Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner l
 
 ![Simulation](https://github.com/FatimaEzzahraElAyadi/IOT_Project_Smart_Trash/blob/master/Images/Simulation.PNG)
 
-![Montage Réel](https://drive.google.com/file/d/1G3Fbi55WKITg7rH2b8gXDcFIxUMKzwmS/view?usp=sharing)
+[Montage Réel](https://drive.google.com/file/d/1G3Fbi55WKITg7rH2b8gXDcFIxUMKzwmS/view?usp=sharing)
 
 ## Utilisation
 
@@ -39,3 +39,7 @@ Smart Trash est un projet IoT (Internet des Objets) qui vise à révolutionner l
 2. Configurez les matériels et téléchargez le code source dans le microcontrôleur ESP32.
 3. Utilisez l'application Blynk pour surveiller l'état de la poubelle et recevoir des notifications.
 4. Contribuez à améliorer et personnaliser cette solution pour répondre à vos besoins spécifiques.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ismail-harik-241b371b9](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/))
